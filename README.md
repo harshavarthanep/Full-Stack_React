@@ -4,6 +4,7 @@ Use this to join your frontend and backend of full stack react project
 1. First, rename the frontend to "client"
 2. Move your backend to the root of frontend and name it "server"(it is already in that name)
 3. Remove old node_modules from the frontend and backend
+
 **4. server side:**
    on index.js rename to "server" add these lines
    
