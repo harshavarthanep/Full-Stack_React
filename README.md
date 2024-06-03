@@ -31,7 +31,8 @@ Use this to join your frontend and backend of full stack react project
           console.log(`Server is running on port ${port}`);
         });
 
-**6. add package.json** 
+**6. client side:**
+   add package.json 
   
        {
           "name": "server",
